@@ -32,7 +32,7 @@ content column 1 | content column 2
 
 GitHub supports emoji!
 :+1: :sparkles: :camel: :tada:
-:rocket: :metal: :octocat:
+:rocket: :metal: :octocat: 
 
 Johnny Coder
 ============
