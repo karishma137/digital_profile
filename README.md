@@ -32,4 +32,25 @@ GitHub supports emoji!
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat:
 
+Johnny Coder
+============
+
+-------------------     ----------------------------
+srinivasa rao peta        shaikkarishma9199@gmail.com
+Guntur                         
+India                           7995063950
+-------------------     ----------------------------
+
+Education
+---------
+
+2019-2023
+:   **B.tech, computer science and business system**; Rvr & jc college of engineering(chowdavaram)
+
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
+     
+2017-2019
+:   **intermediate, MPC**; sri chaitanya junior college(lakshmipuram)
+
 
